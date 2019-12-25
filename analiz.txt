@@ -1,0 +1,15 @@
+Projenin amacý
+Projemiz spor yapmak isteyen insanlara vücut bilgilerini alarak bu verilere göre program oluþturmaya yarýyor. Program genel olarak 
+profesyonel bir hocaya danýþamayan, salonlara gidemeyen kiþilere kolaylýk saðlamaktadýr.
+
+
+Proje arayüzü
+Projemizde tasarladýðýmýz programý tkinter kütüphanesinden yararlanarak programý ekrana veriyoruz. Burada 
+programdaki hareketleri görüntülemek için siteye yönlendiriyoruz. Kullanýcýyý yönlendirmek için siteyi aç butonu ekledik.
+
+
+Proje 
+Projede spora yeni baþlayanlar içi hareketlerin nasýl yapýlmasý gerektiðine dair resimli anlatýmlar içeren bir HTML sayfasý bulunmakta.
+Sayfamýzda antrenman kol, omuz, vb çalýþmalarý için profesyonellerin hazýrlamýþ olduklarý videolar mevcuttur. Kiþinin yaþ, kilo
+,boy, tarih ve cinsiyet gibi özelliklerine göre antrenman programýný yazarak ve bunu arayüz olarak kullanýcýya geri vererek
+programý tamamlýyoruz.
